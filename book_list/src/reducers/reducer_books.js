@@ -1,8 +1,22 @@
-export default function() {
-  return [
-    { title: 'Javascript: The Good Parts', pages: 101 },
-    { title: 'Harry Potter', pages: 39 },
-    { title: 'The Dark Tower', pages: 85 },
-    { title: 'Eloquent Ruby', pages: 1 }
-  ];
+export default function () {
+    return [
+        {
+            title: 'Колобок',
+            pages: 456
+        },
+        {
+            title: 'Иван да Марья',
+            pages: 12
+        },
+        {
+            title: 'Война и Мир',
+            pages: 56
+        },
+
+        {
+            title: 'Идиот',
+            pages: 98
+        }
+
+    ]
 }
